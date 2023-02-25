@@ -13,7 +13,7 @@ require (
 	github.com/holys/initials-avatar v0.0.0-20180809162153-a82edcad3408
 	github.com/lib/pq v1.4.0
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79
+	golang.org/x/crypto v0.1.0
 	golang.org/x/image v0.0.0-20200430140353-33d19683fad8 // indirect
 	stathat.com/c/consistent v1.0.0 // indirect
 )
